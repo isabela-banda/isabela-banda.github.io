@@ -45,21 +45,15 @@
  .fa-facebook{
        color: #3b5998;
  }
- .fa-twitter{
-       color: #00acee;
- }
- .fa-instagram{
+ .fa-github{
        color: #517fa4
  }
  .fa-facebook:hover {
        color: #a8a8a8;
  }
- .fa-twitter:hover {
-       color: #a8a8a8
- }
  .fa-linkedin:hover {
        color: #a8a8a8
  }
- .fa-intagram:hover {
+ .fa-github:hover {
        color: #a8a8a8;
  }
