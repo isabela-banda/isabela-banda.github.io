@@ -18,6 +18,10 @@
        background-repeat: no-repeat;
        background-size: cover;
  }
+ handwriting{
+       color: black;
+       font-family:
+ }
  .name {
        font-size: 75px;
        color: white;
